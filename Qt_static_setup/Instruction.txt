@@ -1,0 +1,10 @@
+watch: https://www.youtube.com/watch?v=TlB3237Tc4w
+download needed zip-file
+repack it (~ 1-2 hours)
+open script in note-reductor
+change $QtSrcUrl
+copy text and start it in windows powershell (~ 1 hour)
+
+
+You can also try to install Static with MVSC
+(https://amin-ahmadi.com/2016/09/22/how-to-build-qt-5-7-statically-using-msvc14-microsoft-visual-studio-2015/)
